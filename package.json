@@ -1,0 +1,11 @@
+{
+  "name": "qrcode-reader",
+  "version": "0.0.1",
+  "description": "A javascript client based qrcode reader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sébastien Vallet",
+  "license": "MIT"
+}
